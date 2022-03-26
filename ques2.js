@@ -1,5 +1,5 @@
 const points = [40, 100, 1, 5, 25, 10];
-var max =0;
+var max =-Infinity;
 var min =Infinity;
 for(i=0;i<points.length;i++)
 {
