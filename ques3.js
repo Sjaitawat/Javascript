@@ -9,4 +9,4 @@ function reverseDigits(num) {
     return rev_num;
 }
 
-document.write(reverseDigits(num));
+console.log(reverseDigits(num));
